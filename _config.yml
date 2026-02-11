@@ -1,0 +1,7 @@
+title: software-compliance.org
+author: Henrik Sandklef
+description: Software Compliance 
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+include: ['pages', 'pages/tooling', 'pages/guides' ] 
